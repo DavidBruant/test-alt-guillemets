@@ -11,4 +11,4 @@ in_menu: true
 
 L'Échappée Belle est **une association** styyyylée !
 
-![This is how i fight]({% link images/Capture d’écran du 2023-12-26 00-24-04.png}) 
+![Regard et cigarette]({% link images/Capture d’écran du 2023-12-26 00-24-30.png %}) 
